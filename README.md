@@ -283,8 +283,8 @@ Please refer to individual project README files for more detailed information.
 
 For questions or support regarding these projects:
 
-- 🔗 GitHub: [\[Your GitHub Profile\]](https://github.com/KshitijMittal)
-- 💼 LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/kshitijmittal07/)
+- 🔗 GitHub: [\My GitHub Profile\](https://github.com/KshitijMittal)
+- 💼 LinkedIn: [\My LinkedIn Profile\](https://www.linkedin.com/in/kshitijmittal07/)
 
 ---
 
