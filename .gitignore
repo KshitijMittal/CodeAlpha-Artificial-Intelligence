@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+*.streamlit.run
+
+# Large Model Files (for your Object Detection project)
+*.pt
+*.pth
+*.h5
+
+# Logs & Cache
+*.log
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+.env.local
