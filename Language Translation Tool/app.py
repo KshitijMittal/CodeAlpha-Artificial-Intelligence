@@ -35,7 +35,11 @@ st.markdown("""
 
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
+
+    /* Make header transparent but keep buttons accessible */
+    header[data-testid="stHeader"] {
+    background: transparent !important;
+    }
 
     .block-container {
         padding-top: 2rem !important;
